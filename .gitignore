@@ -1,0 +1,8 @@
+.idea/
+build/
+dist/
+logs/
+settings.py/
+config.json/
+generated/
+test /

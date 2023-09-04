@@ -1,0 +1,2 @@
+def upper_case_string(string):
+return ‘’.join(ch.upper() for ch in string)
